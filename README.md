@@ -1,2 +1,2 @@
 # Java_Session5Assignment2
-Calculate area of rectangle and triangle using single inheritance.
+Use inheritance for the construction of different types of buildings.
